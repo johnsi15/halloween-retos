@@ -1,0 +1,21 @@
+{
+  "name": "halloween-retos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "workspaces": [
+    "challenges/*"
+  ],
+  "scripts": {
+    "co": "sui-mono commit"
+  },
+  "keywords": [
+    "halloween",
+    "JavaScript",
+    "challenge",
+    "desafíos",
+    "retos"
+  ],
+  "author": "",
+  "license": "MIT",
+  "description": ""
+}
