@@ -1,5 +1,5 @@
 # Halloween Retos
-![Halloween]()
+![Halloween](https://github.com/user-attachments/assets/5373adc3-cd3e-4d72-a8e8-5709c944d5b5)
 
 ¿How does that work?
 
