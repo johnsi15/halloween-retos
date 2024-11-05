@@ -17,5 +17,8 @@
   ],
   "author": "",
   "license": "MIT",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@s-ui/mono": "2.45.0"
+  }
 }
