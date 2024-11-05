@@ -15,4 +15,4 @@ Solución a los retos de [halloween](https://halloween.dev/) con JavaScript.
 
 | Challenge |                                 Solution                                   |
 | :-------: |:--------------------------------------------------------------------------: |
-|    #01    | [TS](challenges/challenge-01/index.js) |
+|    #01    | [JS](challenges/challenge-01/index.js) |
