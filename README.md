@@ -17,3 +17,5 @@ Solución a los retos de [halloween](https://halloween.dev/) con JavaScript.
 | :-------: |:--------------------------------------------------------------------------: |
 |    #01    | [JS](challenges/challenge-01/index.js) |
 |    #02    | [JS](challenges/challenge-02/index.js) |
+|    #03    | [JS](challenges/challenge-03/index.js) |
+|    #04    | [JS](challenges/challenge-04/index.js) |
